@@ -330,6 +330,26 @@ unpacking, reading or copying.
 
   7. Additional Terms.
 
+In addition to the terms of this License, any user or company publicly
+using, deploying, or distributing the “camera-file-sorting” program —
+whether as a standalone command-line utility or via a hosted web service
+— must clearly display attribution to the original author.
+
+The required attribution notice is:
+
+    “This software includes camera-file-sorting, developed by Yichen Han,
+    licensed under the GNU AGPL v3.0.”
+
+This attribution must appear in all of the following places:
+
+  - Any hosted web interface (for example, an About or Credits page)
+  - Public documentation or usage instructions
+  - Help output or CLI banner (if redistributed as a CLI tool)
+
+These additional terms are intended to preserve the free software nature
+of the program while ensuring the original author receives visible credit.
+
+
   "Additional permissions" are terms that supplement the terms of this
 License by making exceptions from one or more of its conditions.
 Additional permissions that are applicable to the entire Program shall
