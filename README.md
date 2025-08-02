@@ -5,9 +5,9 @@ Linux:
 git clone https://github.com/HanYC666/camera-file-sorting.git
 cd camera-file-sorting
 sudo apt install libimage-exiftool-perl
-pip install -r requirements.txt
+sudo pip install tqdm
 
 Windows:
 git clone https://github.com/HanYC666/camera-file-sorting.git
 cd camera-file-sorting
-pip install -r requirements.txt
+pip install tqdm
