@@ -275,7 +275,7 @@ def main():
         for file in skipped_files:
             print(file)
 
-    print("\nTransfer complete. Press any key to exit...")
+    print("\nTransfer complete. Press ENTER to exit...")
     input()
 
 if __name__ == "__main__":
