@@ -10,7 +10,7 @@ sudo apt install libimage-exiftool-perl
 
 sudo pip install tqdm
 
-
+# 
 
 Windows:
 git clone https://github.com/HanYC666/camera-file-sorting.git
